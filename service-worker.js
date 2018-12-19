@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "farukkaradeniz.com/precache-manifest.3fefd6bd89fbe6d19288e07666c27bdf.js"
+  "farukkaradeniz.github.io/precache-manifest.b6ca65fafe0b336ffd0ed65cf8848252.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("farukkaradeniz.com/index.html", {
+workbox.routing.registerNavigationRoute("farukkaradeniz.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,14 +1,14 @@
 {
-  "main.css": "farukkaradeniz.com/static/css/main.80cfd604.chunk.css",
-  "main.js": "farukkaradeniz.com/static/js/main.46d77c62.chunk.js",
-  "main.js.map": "farukkaradeniz.com/static/js/main.46d77c62.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "farukkaradeniz.com/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "farukkaradeniz.com/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "farukkaradeniz.com/static/js/runtime~main.abbbcd39.js",
-  "runtime~main.js.map": "farukkaradeniz.com/static/js/runtime~main.abbbcd39.js.map",
-  "static/media/logo.svg": "farukkaradeniz.com/static/media/logo.5d5d9eef.svg",
-  "static/css/main.80cfd604.chunk.css.map": "farukkaradeniz.com/static/css/main.80cfd604.chunk.css.map",
-  "index.html": "farukkaradeniz.com/index.html",
-  "precache-manifest.3fefd6bd89fbe6d19288e07666c27bdf.js": "farukkaradeniz.com/precache-manifest.3fefd6bd89fbe6d19288e07666c27bdf.js",
-  "service-worker.js": "farukkaradeniz.com/service-worker.js"
+  "main.css": "farukkaradeniz.github.io/static/css/main.80cfd604.chunk.css",
+  "main.js": "farukkaradeniz.github.io/static/js/main.32d6174c.chunk.js",
+  "main.js.map": "farukkaradeniz.github.io/static/js/main.32d6174c.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "farukkaradeniz.github.io/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "farukkaradeniz.github.io/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "farukkaradeniz.github.io/static/js/runtime~main.f1bf3721.js",
+  "runtime~main.js.map": "farukkaradeniz.github.io/static/js/runtime~main.f1bf3721.js.map",
+  "static/media/logo.svg": "farukkaradeniz.github.io/static/media/logo.5d5d9eef.svg",
+  "static/css/main.80cfd604.chunk.css.map": "farukkaradeniz.github.io/static/css/main.80cfd604.chunk.css.map",
+  "index.html": "farukkaradeniz.github.io/index.html",
+  "precache-manifest.b6ca65fafe0b336ffd0ed65cf8848252.js": "farukkaradeniz.github.io/precache-manifest.b6ca65fafe0b336ffd0ed65cf8848252.js",
+  "service-worker.js": "farukkaradeniz.github.io/service-worker.js"
 }
