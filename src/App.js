@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
+import SocialList from './SocialList'
+import Info from './Info'
 
 class App extends Component {
   render() {
     return (
       <div className="main">
-        <h1>Deneme</h1>
+        <Info />
+        <SocialList />
       </div>
     );
   }
