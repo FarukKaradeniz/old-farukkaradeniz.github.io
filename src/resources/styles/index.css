@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
+html, body, #root {
+  height: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -13,24 +17,26 @@ body {
 
 .fa {
   color: #494949;
-  margin: 0.5em;
-  font-size: 2.4em;
+  font-size: 1.5em;
 }
 
 .fa:hover {
+  text-decoration: none;
   color: #b3ce50;
 }
 
 .main {
   text-align: center;
+  height: 100%
 }
 
 .name-and-profession {
-  padding-top: 10%;
-  width: 100%;
   color: #424242;
-  font-size: 3.6em;
   font-family: 'Ubuntu';
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 80vh; /* These two lines are counted as one :-)       */
+  display: flex;
+  align-items: center;
 }
 
 .name {
@@ -43,14 +49,5 @@ body {
 }
 
 .social-list {
-  width: 100%;
-  text-align: center;
-  position: absolute;
-  bottom: 30px;
+  margin-bottom: 40px;
 }
-
-.social-media-link {
-  width: 90px;
-  margin: 10px;
-}
-

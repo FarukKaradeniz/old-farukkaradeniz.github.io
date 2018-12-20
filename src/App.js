@@ -5,8 +5,8 @@ import Info from './Info'
 class App extends Component {
   render() {
     return (
-      <div className="main">
-        <Info />
+      <div  className="main">
+        <Info/>
         <SocialList />
       </div>
     );

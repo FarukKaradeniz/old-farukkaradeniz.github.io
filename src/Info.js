@@ -2,8 +2,8 @@ import React from 'react';
 
 const Info = () => {
   return (
-    <div>
-      <h1 className="name-and-profession">
+    <div className="row name-and-profession text-center">
+      <h1>
         <span className="name">Ömer Faruk Karadeniz</span>
         <br />
         <span className="profession">Android & Web Developer</span>

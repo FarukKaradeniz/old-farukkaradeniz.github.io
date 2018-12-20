@@ -41,7 +41,7 @@ const SocialList = props => {
   });
 
   return (
-    <div  className="social-list">
+    <div  className="row fixed-bottom social-list">
         {socialMediaList}
     </div>
   );
