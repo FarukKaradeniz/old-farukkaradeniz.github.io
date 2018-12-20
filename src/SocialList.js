@@ -41,9 +41,9 @@ const SocialList = props => {
   });
 
   return (
-    <ul className="social-list">
-      {socialMediaList}
-    </ul>
+    <div  className="social-list">
+        {socialMediaList}
+    </div>
   );
 };
 
