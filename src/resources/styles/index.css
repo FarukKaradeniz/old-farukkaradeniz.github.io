@@ -32,7 +32,6 @@ body {
 
 .name-and-profession {
   color: #424242;
-  font-family: 'Ubuntu';
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 80vh; /* These two lines are counted as one :-)       */
   display: flex;
@@ -50,4 +49,11 @@ body {
 
 .social-list {
   margin-bottom: 40px;
+  padding: 0% 25% 0% 25%;
+}
+
+@media (max-width: 768px) {
+  .social-list {
+    padding: 0% 5% 0% 5%;
+  }
 }
