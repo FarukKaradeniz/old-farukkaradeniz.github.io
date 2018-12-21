@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "752d5fb44cb89d4a1113",
-    "url": "farukkaradeniz.github.io/static/css/main.8a3811cc.chunk.css"
+    "revision": "00e87136d9a7cab6a520",
+    "url": "farukkaradeniz.github.io/static/css/main.ff858611.chunk.css"
   },
   {
-    "revision": "752d5fb44cb89d4a1113",
-    "url": "farukkaradeniz.github.io/static/js/main.752d5fb4.chunk.js"
+    "revision": "00e87136d9a7cab6a520",
+    "url": "farukkaradeniz.github.io/static/js/main.00e87136.chunk.js"
   },
   {
     "revision": "324b6cf3b56bf43378ce",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "farukkaradeniz.github.io/static/js/runtime~main.f1bf3721.js"
   },
   {
-    "revision": "b47f681540618dd87a379bdc9db3f277",
+    "revision": "2e7d3f8485b35d37333a4151dd80a2e7",
     "url": "farukkaradeniz.github.io/index.html"
   }
 ];
